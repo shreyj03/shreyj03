@@ -10,4 +10,4 @@
 
 ## Top Langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyj03)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyj03&layout=compact&theme=vision-friendly-dark&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
