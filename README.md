@@ -1,6 +1,6 @@
 ## About Me
 
-🏫 I'm studying Computer Science and Hospitality Management at Boston University
+🏫 I'm a senior studying Computer Science at Boston University
 
 💻 On campus I do research on Shocks and Innovation using data and NLP.
 
